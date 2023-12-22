@@ -12,7 +12,8 @@ Moving past reading time as figures, let's depict it as analog clock with hands 
 - Click **[here](https://github.com/WeeklyCoder/Week10/blob/main/WeeklyCoder_Week10.pde)** to get this week's starting code.
 
 ## 🥨 Twists
-
+- Could you make the hands move smoothly (just like this (https://t.me/WeeklyCoder/21?comment=81) video)?
+- How about using some APIs or hardcoding time differences to depict World Clock with Multiple Time Zones?
 
 ## Recommended Learning:
 ```
