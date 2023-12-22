@@ -1,5 +1,5 @@
 # Week10
-Analog Clock | What time is it? Polar Coordinate Time, of course.
+Analog Clock | What time is it? It's Polar Coordinate Time, of course.
 
 ## 📃 Description:
 Moving past reading time as figures, let's depict it as analog clock with hands [H : M : S].
